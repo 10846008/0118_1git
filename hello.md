@@ -7,7 +7,7 @@
 
 什麼!?`你看看這邊被特殊處理了`
 
-```python=
+```python
 def hello():
     print('Hello World')
 ```
